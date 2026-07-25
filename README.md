@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=MNmaurya&label=Profile%20Views&color=0e75b6&style=flat)
 <h1 align="center">
 Hey 👋,It's Muskan Maurya this side!
 </h1>
@@ -41,9 +42,7 @@ AI & Machine Learning Student | Python Developer | President @ Literary Club | H
 - SQL
 - GitHub
 - Data Structures
-- C/C++
-
-![](https://komarev.com/ghpvc/?username=MNmaurya&label=Profile%20Views&color=0e75b6&style=flat)
+- C/C++ 
 
 ⚡ Fun Fact
 
