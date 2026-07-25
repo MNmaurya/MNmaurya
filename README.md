@@ -43,6 +43,8 @@ AI & Machine Learning Student | Python Developer | President @ Literary Club | H
 - Data Structures
 - C/C++
 
+![](https://komarev.com/ghpvc/?username=MNmaurya&label=Profile%20Views&color=0e75b6&style=flat)
+
 ⚡ Fun Fact
 
 > I love turning ideas into AI-powered projects and being creative is my speciality!
