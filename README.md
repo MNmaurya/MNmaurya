@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MNmaurya&label=Profile%20Views&color=0e75b6&style=flat)
+
 <h1 align="center">
 Hey 👋,It's Muskan Maurya this side!
 </h1>
