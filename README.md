@@ -109,7 +109,9 @@ AI & Machine Learning Student | Python Developer | President @ Literary Club | H
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=MNmaurya&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/MNmaurya">
+    <img src="https://streak-stats.demolab.com?user=MNmaurya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 
 </p>
 
