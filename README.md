@@ -105,26 +105,21 @@ AI & Machine Learning Student | Python Developer | President @ Literary Club | H
 | 📊 ML Models | Classification & Regression Models | 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🚂 CONTRIBUTION EXPRESS
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/MNmaurya/output/github-contribution-grid-tiger.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MNmaurya&hide_border=true&area=true" width="100%"/>
 
 </p>
-
-
-# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MNmaurya&theme=tokyo-night"/>
+🚂━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🚂
 
-</p>
-
+<br>
 
 ---
-
 # ☕ Random Dev Quote
 
 <p align="center">
