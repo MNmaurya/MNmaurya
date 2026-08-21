@@ -105,13 +105,11 @@ AI & Machine Learning Student | Python Developer | President @ Literary Club | H
 | 📊 ML Models | Classification & Regression Models | 
 ---
 
-# 🔥 GitHub Streak
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
-<a href="https://github.com/MNmaurya">
-    <img src="https://streak-stats.demolab.com?user=MNmaurya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </p>
 
