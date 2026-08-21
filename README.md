@@ -109,7 +109,7 @@ AI & Machine Learning Student | Python Developer | President @ Literary Club | H
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/MNmaurya/output/github-contribution-grid-tiger.svg" alt="GitHub Contribution Snake"/>
 
 </p>
 
